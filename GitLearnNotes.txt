@@ -20,4 +20,13 @@ git rm file
 rm file
 git chekout -- file	// 利用版本库版本替换工作区的版本
 
+git push 		// 把当前分支master推送到远程
+
+git remote add origin git@github.com:xxx/repo-name.git
+git push -u origin master
+git push origin master
+git pull git@github.com:xxx/repo-name
+
+
+
 
