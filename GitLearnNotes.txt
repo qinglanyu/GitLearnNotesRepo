@@ -14,4 +14,10 @@ git checkout -- file 	// 撤消目录下的修改回到版本库状态，或撤�
 git reset HEAD file
 git checkout -- file
 
+git rm file
+
+
+rm file
+git chekout -- file	// 利用版本库版本替换工作区的版本
+
 
