@@ -27,7 +27,7 @@ git remote add origin git@github.com:xxx/repo-name.git
 git push -u origin master
 git push origin master
 git pull git@github.com:xxx/repo-name
-
+// git push command push the local version to remote repository
 
 
 
