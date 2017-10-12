@@ -1,3 +1,4 @@
+ssh-keygen -t rsa -C "xxx@email.com"
 git add
 git commit -m "comments"
 git status
@@ -26,6 +27,7 @@ git remote add origin git@github.com:xxx/repo-name.git
 git push -u origin master
 git push origin master
 git pull git@github.com:xxx/repo-name
+
 
 
 
